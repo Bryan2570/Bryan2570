@@ -1,29 +1,29 @@
 # Brayan Manuel Rojas Lemus
 
 <h1 align="center">
-  Ingeniero de Sistemas
+  SYSTEMS ENGINEER
 </h1>
 
 <h2 align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=600&lines=Bienvenido+a+mi+perfil+de+GitHub!;Soy+Brayan+Manuel+Rojas+Lemus;Ingeniero+de+Sistemas+y+Desarrollador+Web)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=600&lines=Welcome+to+my+Github+page!;I'm+Brayan+Rojas+Lemus.;SYSTEMS+ENGINEER,Web+Developer.)](https://git.io/typing-svg)
 
 ---
 
-### Acerca de mí
+### About me
 
-Soy **Brayan Manuel Rojas Lemus**, Ingeniero de Sistemas egresado de la **Universidad Francisco de Paula Santander Ocaña**. Mi pasión por la tecnología y la creación de soluciones innovadoras me ha permitido desarrollar una sólida experiencia en el ámbito del desarrollo web y la gestión de bases de datos.
+I am **Brayan Manuel Rojas Lemus**, a Systems Engineer graduated from the **Francisco de Paula Santander Ocaña University**. My passion for technology and creating innovative solutions has allowed me to develop solid experience in the field of web development and database management.
 
-He tenido el privilegio de participar en proyectos de alto impacto para empresas internacionales como:
+I have had the privilege of participating in high-impact projects for international companies such as:
 
 - **Banco Guayaquil (Ecuador)**
 - **Datafast (Ecuador)**
-- **Linkser (México)**
-- **ATC (Estados Unidos)**
+- **Linkser (Bolivia)**
+- **ATC (Bolivia)**
 
-### Mis Tecnologías y Herramientas
+### My Technologies and Tools
 
-#### Lenguajes de Programación
+#### Programming Languages
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg" width="48" alt="HTML"/>
@@ -33,14 +33,14 @@ He tenido el privilegio de participar en proyectos de alto impacto para empresas
   <img src="https://img.icons8.com/color/48/000000/sql.png" width="48" alt="SQL Server"/>
 </p>
 
-#### Frameworks y Librerías
+#### Frameworks and Libraries
 
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="48" alt="Bootstrap"/>
   <img src="https://img.icons8.com/ios-filled/48/000000/entity-framework.png" width="48" alt="Entity Framework"/>
 </p>
 
-#### Software y Herramientas
+#### Software and Tools
 
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/visual-studio.png" width="48" alt="Visual Studio"/>
@@ -48,12 +48,7 @@ He tenido el privilegio de participar en proyectos de alto impacto para empresas
   <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" width="48" alt="GitHub"/>
 </p>
 
-#### Miscellaneous
 
-<p align="left">
-  <img src="https://img.icons8.com/color/48/000000/docker.png" width="48" alt="Docker"/>
-  <img src="https://img.icons8.com/color/48/000000/raspberry-pi.png" width="48" alt="Raspberry Pi"/>
-</p>
 
 ---
 
