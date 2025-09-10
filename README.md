@@ -24,17 +24,21 @@ This journey has helped me grow not only as a developer but also as a project le
   <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg" width="48" alt="HTML"/>
   <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg" width="48" alt="CSS"/>
   <img src="https://img.icons8.com/color/48/000000/javascript.png" width="57" alt="JavaScript"/>
+  <img src="https://i.pinimg.com/736x/60/6e/55/606e55f536efeefee29bd07c59f32a44.jpg" width="70" alt="VB"/>
   <img src="https://images.icon-icons.com/2415/PNG/512/csharp_plain_logo_icon_146577.png" width="55" alt="C#"/>
   <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" width="64" alt="Java"/>
-  <img src="https://codevisionz.com/wp-content/uploads/2024/04/sql-logo.png" width="48" alt="SQL"/>
+  <img src="https://codevisionz.com/wp-content/uploads/2024/04/sql-logo.png" width="65" alt="SQL"/>
  
 </p>
 
 #### Frameworks and Libraries
 
 <p align="left">
-  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="48" alt="Bootstrap"/>
-  <img src="https://img.icons8.com/ios-filled/48/000000/entity-framework.png" width="48" alt="Entity Framework"/>
+  
+  <img src="https://logos-world.net/wp-content/uploads/2022/01/NET-Framework-Logo.png" width="80" alt="Entity Framework"/>
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="50" alt="React"/>
+  <img src="https://solvers.fr/wp-content/uploads/2019/06/La-version-12-de-Node.js-ame%CC%81liore-la-se%CC%81curite%CC%81-les-performances-et-les-modules.png" width="60" alt="Node"/>
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="50" alt="Bootstrap"/>
 </p>
 
 #### Software and Tools
