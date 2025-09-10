@@ -12,14 +12,9 @@
 
 ### About me
 
-I am **Brayan Manuel Rojas Lemus**, a Systems Engineer graduated from the **Francisco de Paula Santander Ocaña University**. My passion for technology and creating innovative solutions has allowed me to develop solid experience in the field of web development and database management.
+Full-Stack Systems Engineer with 3+ years of experience in designing, developing, and deploying scalable business solutions. Skilled in Java, .NET, ASP.NET, C#, SQL, and Azure cloud services, with expertise in building end-to-end applications that integrate frontend and backend, including POS terminal operations. Experienced in Agile (Scrum) environments, I’m passionate about innovation, continuous improvement, and delivering practical, user-centered solutions that create real business value.
 
-I have had the privilege of participating in high-impact projects for international companies such as:
-
-- **Banco Guayaquil (Ecuador)**
-- **Datafast (Ecuador)**
-- **Linkser (Bolivia)**
-- **ATC (Bolivia)**
+This journey has helped me grow not only as a developer but also as a project leader, taking responsibility in production environments, managing priorities, and ensuring successful deployments.****
 
 ### My Technologies and Tools
 
@@ -28,9 +23,11 @@ I have had the privilege of participating in high-impact projects for internatio
 <p align="left">
   <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg" width="48" alt="HTML"/>
   <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg" width="48" alt="CSS"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" width="48" alt="JavaScript"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/c-sharp-logo.png" width="48" alt="C#"/>
-  <img src="https://img.icons8.com/color/48/000000/sql.png" width="48" alt="SQL Server"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" width="57" alt="JavaScript"/>
+  <img src="https://images.icon-icons.com/2415/PNG/512/csharp_plain_logo_icon_146577.png" width="55" alt="C#"/>
+  <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" width="64" alt="Java"/>
+  <img src="https://codevisionz.com/wp-content/uploads/2024/04/sql-logo.png" width="48" alt="SQL"/>
+ 
 </p>
 
 #### Frameworks and Libraries
