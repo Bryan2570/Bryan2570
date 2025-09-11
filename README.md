@@ -45,6 +45,7 @@ This journey has helped me grow not only as a developer but also as a project le
 
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/visual-studio.png" width="48" alt="Visual Studio"/>
+  <img src="https://w7.pngwing.com/pngs/100/690/png-transparent-visual-studio-code-microsoft-visual-studio-source-code-text-editor-microsoft-blue-angle-text.png" width="48" alt="Visual Studio Code"/>
   <img src="https://img.icons8.com/ios-filled/48/000000/git.png" width="48" alt="Git"/>
   <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" width="48" alt="GitHub"/>
 </p>
