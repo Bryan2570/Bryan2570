@@ -46,7 +46,13 @@ This journey has helped me grow not only as a developer but also as a project le
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/visual-studio.png" width="48" alt="Visual Studio"/>
   <img src="https://w7.pngwing.com/pngs/100/690/png-transparent-visual-studio-code-microsoft-visual-studio-source-code-text-editor-microsoft-blue-angle-text.png" width="48" alt="Visual Studio Code"/>
+   <img src="https://i.pinimg.com/474x/3e/55/df/3e55dfb0980956b42cac768b740cdad6.jpg" width="63" alt="Git"/>
+  <img src="https://images.icon-icons.com/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png" width="53" alt="Git"/>
+
+
+  
   <img src="https://img.icons8.com/ios-filled/48/000000/git.png" width="48" alt="Git"/>
+  
   <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" width="48" alt="GitHub"/>
 </p>
 
