@@ -44,16 +44,17 @@ This journey has helped me grow not only as a developer but also as a project le
 #### Software and Tools
 
 <p align="left">
-  <img src="https://img.icons8.com/color/48/000000/visual-studio.png" width="48" alt="Visual Studio"/>
-  <img src="https://w7.pngwing.com/pngs/100/690/png-transparent-visual-studio-code-microsoft-visual-studio-source-code-text-editor-microsoft-blue-angle-text.png" width="48" alt="Visual Studio Code"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio.png" width="52" alt="Visual Studio"/>
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*KhEsPelD8kw2uQkn8Vn8PQ.png" width="55" alt="Visual Studio Code"/>
    <img src="https://i.pinimg.com/474x/3e/55/df/3e55dfb0980956b42cac768b740cdad6.jpg" width="63" alt="Git"/>
   <img src="https://images.icon-icons.com/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png" width="53" alt="Git"/>
-
-
-  
-  <img src="https://img.icons8.com/ios-filled/48/000000/git.png" width="48" alt="Git"/>
-  
-  <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" width="48" alt="GitHub"/>
+  <img src="https://git-scm.com/images/logos/downloads/Git-Logo-1788C.svg" width="75" alt="Git"/>  
+  <img src="https://images.icon-icons.com/3053/PNG/512/github_macos_bigsur_icon_190140.png" width="60" alt="GitHub"/>
+  <img src="https://images.icon-icons.com/2415/PNG/512/bitbucket_original_wordmark_logo_icon_146622.png" width="63" alt="Bitbucket"/>
+  <img src="https://images.icon-icons.com/3053/PNG/512/sourcetree_macos_bigsur_icon_189711.png" width="60" alt="sourcetree"/>
+  <img src="https://download.logo.wine/logo/NetBeans/NetBeans-Logo.wine.png" width="100" alt="Netbeans"/>
+  <img src="https://media.dotnetzuid.nl/2024-09/5c1bcfab-9793-4a7d-a444-36150ea0ecce.png" width="115" alt="Rider"/>
+    <img src="https://www.liblogo.com/img-logo/max/in3929i9d7-intellij-idea-logo-intellij-idea-logo.png" width="100" alt="Rider"/>
 </p>
 
 
