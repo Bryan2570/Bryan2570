@@ -110,11 +110,7 @@ This journey has helped me grow not only as a developer but also as a project le
 
 | Mis estadísticas | Lenguajes principales |
 |:-----------------:|:---------------------:|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=null3000&show_icons=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=null3000&layout=compact&theme=algolia) |
-
-| Actividad reciente |
-|:------------------:|
-| ![GitHub Graph](https://activity-graph.herokuapp.com/graph?username=null3000&theme=react-dark&hide_border=true&area=true) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bryan2570&show_icons=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bryan2570&layout=compact&theme=algolia) |
 
 ---
 
@@ -122,5 +118,5 @@ This journey has helped me grow not only as a developer but also as a project le
 
 Puedes encontrarme en:
 
-- **LinkedIn:** [TuPerfilLinkedIn](https://linkedin.com/in/tuperfil)
-- **Correo Electrónico:** [tucorreo@ejemplo.com](mailto:tucorreo@ejemplo.com)
+- **LinkedIn:** (https://www.linkedin.com/in/brayan-manuel-rojas-lemus-2a266821b/)
+- **Correo Electrónico:** (bmrojasl04@gmail.com)
